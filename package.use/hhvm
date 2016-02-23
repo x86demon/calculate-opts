@@ -1,0 +1,4 @@
+net-libs/c-client kerberos
+dev-libs/jemalloc stats
+sys-devel/binutils static-libs
+dev-libs/boost context

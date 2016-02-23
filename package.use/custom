@@ -1,0 +1,8 @@
+dev-lang/php bcmath calendar curl fpm imap inifile intl mhash mysql pcntl pdo postgres sharedmem soap sockets sqlite wddx xmlreader xmlwriter xslt zip ldap ldap-sasl kerberos -apache2 -threads
+<dev-lang/php-5.4 bcmath calendar curl fpm imap inifile intl mhash mysql pcntl pdo postgres sharedmem soap sockets sqlite wddx xmlreader xmlwriter xslt zip ldap ldap-sasl kerberos apache2
+app-eselect/eselect-php fpm
+dev-db/mariadb embedded
+virtual/mysql embedded
+net-libs/libmicrohttpd messages
+dev-db/postgresql server
+www-servers/apache -threads
